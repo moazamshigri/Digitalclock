@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@300..700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: linear-gradient(to bottom right, black, #282fa0);
+}
+.hero{
+    background: linear-gradient(to right, snow, #969697);
+    height: 69px;
+    width: 194px;
+    border-radius: 9px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Signika;
+    font-size: 30px;
+    font-weight: bold;
+
+}
